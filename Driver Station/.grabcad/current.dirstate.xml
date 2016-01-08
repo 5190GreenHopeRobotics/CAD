@@ -1,0 +1,1659 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2016-01-07T22:47:10.5899378-05:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\AIT\AIT Library\Configuration\mold base.xml</FileName>
+      <SHA1>A687B580273AE4448968C775B4A9448108BAA920</SHA1>
+      <FileSize>115608</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.2427939+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\AIT\Mold Design\mold design stop pin.ipt</FileName>
+      <SHA1>9F8C94422B518BFA8164BFC64D1B1C49B51FF24C</SHA1>
+      <FileSize>82432</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.2487867+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Cable &amp; Harness\en-US\Cable&amp;HarnessDefaultLibrary.iwl</FileName>
+      <SHA1>EA4BCA4A20A8FB8D2AB64D380F1F1ECCA3BE834E</SHA1>
+      <FileSize>421800</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.2527918+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Cable &amp; Harness\en-US\harness.iam</FileName>
+      <SHA1>AEA574594A54BEDCF4946FDD5F46612D0A995FC7</SHA1>
+      <FileSize>63488</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.2557948+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\DWG-DXF\exportdwg.ini</FileName>
+      <SHA1>20F3454917AAC36C7F30BF2FB474757FA7E1EEC2</SHA1>
+      <FileSize>1030</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.2668211+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\DWG-DXF\exportdxf.ini</FileName>
+      <SHA1>805A5B7038D7F54CD17286D7C9C8AFDA4C0A11D5</SHA1>
+      <FileSize>1031</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.2698238+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\DWG-DXF\FaceLoops.xml</FileName>
+      <SHA1>7B5EFC6AD7451F1B65D38C848011C74C2DD01BC0</SHA1>
+      <FileSize>6462</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.2587975+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\DWG-DXF\FlatPattern.xml</FileName>
+      <SHA1>286971F60D355ED27727C7305F9B18EA254229BB</SHA1>
+      <FileSize>6918</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.2607338+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\DWG-DXF\FlatPatternExportOpts.xml</FileName>
+      <SHA1>DC360290CCEF166822B48C3149AAA491C30E466C</SHA1>
+      <FileSize>1664</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.2640316+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\DWG-DXF\importacad.ini</FileName>
+      <SHA1>67A210413625BDC5FCEF1CFAA217D5A5BBFE30B5</SHA1>
+      <FileSize>994</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.2728271+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\DWG-DXF\importdxf.ini</FileName>
+      <SHA1>C99D2202CE24BBDC16C60AA486429EFB54B8DC7B</SHA1>
+      <FileSize>986</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.2748291+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\DWG-DXF\importmdt.ini</FileName>
+      <SHA1>7C9DCB0655FDC08FB00ABF6C65E04AA140F7FBA8</SHA1>
+      <FileSize>990</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.2778224+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\GOST\en-US\Defaults.ini</FileName>
+      <SHA1>A6686D61E484221CC86E04C9F2A3C0E0CDEA6958</SHA1>
+      <FileSize>3818</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.3569044+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\GOST\en-US\MaterialsFavorites.xml</FileName>
+      <SHA1>094EBC2BC5883B13C8E29BEF9057DC6C0A25A6B6</SHA1>
+      <FileSize>4618</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.3598972+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\GOST\en-US\PartsListGroup1.xls</FileName>
+      <SHA1>4CF076C2E04F1624160CB6F434181BC57094F5B3</SHA1>
+      <FileSize>67072</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.3629002+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\GOST\en-US\PartsListGroup1b.xls</FileName>
+      <SHA1>B20F078F9E07BBF12E1BBB82DBB938B7D283B0D8</SHA1>
+      <FileSize>73216</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.3888085+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\GOST\en-US\PartsListTemplate.xls</FileName>
+      <SHA1>B7AD9B7E544381E4312C71B4C53F0FA5BC530076</SHA1>
+      <FileSize>56320</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.3908104+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\GOST\en-US\WeldFavorites.ini</FileName>
+      <SHA1>6563998387716307386873FD34A83A1DF91C4859</SHA1>
+      <FileSize>988</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.3938198+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\GOST\Technical Requirements\en-US\Assembly drawings.tr</FileName>
+      <SHA1>915A4EFAB21766DAC39105CD418B3F65F7D7E111</SHA1>
+      <FileSize>2822</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.3038551+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\GOST\Technical Requirements\en-US\Cold punching parts.tr</FileName>
+      <SHA1>F563B131F4CC0419A3ADCF224911BDE33B3DC26F</SHA1>
+      <FileSize>1576</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.3058570+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\GOST\Technical Requirements\en-US\Electrical cases.tr</FileName>
+      <SHA1>31EB149C5DBE77D27FDADF2538F1F22D74DBF96A</SHA1>
+      <FileSize>2186</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.3388773+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\GOST\Technical Requirements\en-US\Forged parts.tr</FileName>
+      <SHA1>A4995E89A39E038EC1100CE0EF1A03868DF759BD</SHA1>
+      <FileSize>1558</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.3418990+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\GOST\Technical Requirements\en-US\Mechanical parts.tr</FileName>
+      <SHA1>1E2A301C46206EAF5A191C2E3843257D0C991159</SHA1>
+      <FileSize>2170</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.3438918+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\GOST\Technical Requirements\en-US\Mold parts.tr</FileName>
+      <SHA1>CC1A98078E3F217B753BCA06FFC82FB75E01666C</SHA1>
+      <FileSize>2568</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.3458841+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\GOST\Technical Requirements\en-US\Pipes.tr</FileName>
+      <SHA1>B0CCB06A4334D2C073C64415D8791D7AD8DF90AC</SHA1>
+      <FileSize>1194</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.3478857+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\GOST\Technical Requirements\en-US\Steel mold parts.tr</FileName>
+      <SHA1>1AADAF5F0CF03AB6F2AEF40217886EFDB2ABDB45</SHA1>
+      <FileSize>2084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.3498879+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\GOST\Technical Requirements\en-US\Surface coatings.tr</FileName>
+      <SHA1>1896AE67B5ABC37A587595F27C97F32153B964BA</SHA1>
+      <FileSize>384</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.3518896+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\GOST\Technical Requirements\en-US\Weld assemblies.tr</FileName>
+      <SHA1>3B57B84BB82A9CA7525B6D513C7A7B5E636747A2</SHA1>
+      <FileSize>1154</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.3538936+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\GOST\Technical Requirements.Base\Assembly drawings.tr</FileName>
+      <SHA1>915A4EFAB21766DAC39105CD418B3F65F7D7E111</SHA1>
+      <FileSize>2822</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.2808261+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\GOST\Technical Requirements.Base\Cold punching parts.tr</FileName>
+      <SHA1>F563B131F4CC0419A3ADCF224911BDE33B3DC26F</SHA1>
+      <FileSize>1576</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.2848281+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\GOST\Technical Requirements.Base\Electrical cases.tr</FileName>
+      <SHA1>31EB149C5DBE77D27FDADF2538F1F22D74DBF96A</SHA1>
+      <FileSize>2186</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.2869556+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\GOST\Technical Requirements.Base\Forged parts.tr</FileName>
+      <SHA1>A4995E89A39E038EC1100CE0EF1A03868DF759BD</SHA1>
+      <FileSize>1558</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.2889731+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\GOST\Technical Requirements.Base\Mechanical parts.tr</FileName>
+      <SHA1>1E2A301C46206EAF5A191C2E3843257D0C991159</SHA1>
+      <FileSize>2170</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.2909603+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\GOST\Technical Requirements.Base\Mold parts.tr</FileName>
+      <SHA1>CC1A98078E3F217B753BCA06FFC82FB75E01666C</SHA1>
+      <FileSize>2568</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.2933682+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\GOST\Technical Requirements.Base\Pipes.tr</FileName>
+      <SHA1>B0CCB06A4334D2C073C64415D8791D7AD8DF90AC</SHA1>
+      <FileSize>1194</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.2953707+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\GOST\Technical Requirements.Base\Steel mold parts.tr</FileName>
+      <SHA1>1AADAF5F0CF03AB6F2AEF40217886EFDB2ABDB45</SHA1>
+      <FileSize>2084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.2973726+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\GOST\Technical Requirements.Base\Surface coatings.tr</FileName>
+      <SHA1>1896AE67B5ABC37A587595F27C97F32153B964BA</SHA1>
+      <FileSize>384</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.2993745+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\GOST\Technical Requirements.Base\Weld assemblies.tr</FileName>
+      <SHA1>3B57B84BB82A9CA7525B6D513C7A7B5E636747A2</SHA1>
+      <FileSize>1154</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.3018541+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary.fbm\Graphics\GraphicsUI.xml</FileName>
+      <SHA1>CDF08A552F543D3A07659F29835A80CBB3DA1F15</SHA1>
+      <FileSize>1928</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5056049+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary.fbm\PhysicalMat\PhysMatUI.xml</FileName>
+      <SHA1>A8574668CDB1E6ADD6530F7F0FF8061262B018A5</SHA1>
+      <FileSize>3080</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5086088+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary.fbm\schema_files\CommonSchema.xml</FileName>
+      <SHA1>C7463C00038B3B37B8E01E348FF3FBDF89007718</SHA1>
+      <FileSize>2317</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5403060+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary.fbm\schema_files\PhysMatSchema.xml</FileName>
+      <SHA1>7F3951999152D25FDE81DEBEEF7EEF91DA518DBF</SHA1>
+      <FileSize>3405</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5433217+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary.fbm\schema_files\StructuralCommonSchema.xml</FileName>
+      <SHA1>A34FB7B4C84FA6B23C3F01C21E19A5A7A700704D</SHA1>
+      <FileSize>1747</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5454070+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary.fbm\schema_files\StructuralConcreteSchema.xml</FileName>
+      <SHA1>1176AA6C43B36A15B8B5BD9C59E673C155E6BDBC</SHA1>
+      <FileSize>1185</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5474173+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary.fbm\schema_files\StructuralGenericSchema.xml</FileName>
+      <SHA1>6B34ADD48B126EA792B62A4C08D25152E55A9212</SHA1>
+      <FileSize>616</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5504243+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary.fbm\schema_files\StructuralMetalSchema.xml</FileName>
+      <SHA1>9A3BCDA7BA62D52AB113CDA43B7BC38AB6AC911C</SHA1>
+      <FileSize>723</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5524187+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary.fbm\schema_files\StructuralPlasticSchema.xml</FileName>
+      <SHA1>7C785B57BD268F2AEDBFC761C0D68C7624C9F737</SHA1>
+      <FileSize>616</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5544254+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary.fbm\schema_files\StructuralWoodSchema.xml</FileName>
+      <SHA1>9A3AE0F208BD96D5672CE4D37F4DA4141BBE0ACB</SHA1>
+      <FileSize>3032</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5564183+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary.fbm\schema_files\ThermalCommonSchema.xml</FileName>
+      <SHA1>C29FCAD7985BC6BEEA69454A2E6D25D1E39255E0</SHA1>
+      <FileSize>1987</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5594379+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary.fbm\schema_files\ThermalGasSchema.xml</FileName>
+      <SHA1>5677728F8B9A2ED493A884A26B8BD995233EE361</SHA1>
+      <FileSize>1005</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5614377+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary.fbm\schema_files\ThermalLiquidSchema.xml</FileName>
+      <SHA1>948365FC32B5641E75D4C68C77A7BF99801C4E11</SHA1>
+      <FileSize>1507</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5634369+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary.fbm\schema_files\ThermalSolidSchema.xml</FileName>
+      <SHA1>5F2F5F860FFD051EA7D94B073877711E7AAE48FA</SHA1>
+      <FileSize>2636</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5658095+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary.fbm\Structural\Basic\BasicStructuralUI.xml</FileName>
+      <SHA1>A66B3CB221ED2AA0D9B257610ACBF1CE808C4C9E</SHA1>
+      <FileSize>1586</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5106098+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary.fbm\Structural\Concrete\ConcreteStructuralUI.xml</FileName>
+      <SHA1>E74C80547D32B9CBFA1423FA0C498714D72FCD35</SHA1>
+      <FileSize>12754</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5136294+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary.fbm\Structural\Fatigue\FatigueStructuralUI.xml</FileName>
+      <SHA1>72E7ADF308A25D1D18B18659B1C77ACE9DD979C3</SHA1>
+      <FileSize>4616</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5166156+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary.fbm\Structural\Gas\GasStructuralUI.xml</FileName>
+      <SHA1>B2700204544CFD08A15631ED79BC505C02036232</SHA1>
+      <FileSize>1852</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5196204+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary.fbm\Structural\Generic\GenericStructuralUI.xml</FileName>
+      <SHA1>B090169FDA7158DB4AB9EA25B293FE397CB36E75</SHA1>
+      <FileSize>12308</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5216271+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary.fbm\Structural\Metal\MetalStructuralUI.xml</FileName>
+      <SHA1>D1A9B8C0FF642C85CD5BA4319DE9E4FF10923727</SHA1>
+      <FileSize>12438</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5245042+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary.fbm\Structural\Plastic\PlasticStructuralUI.xml</FileName>
+      <SHA1>7E85D08CD0EB7793F6014272A399A3B6E793378D</SHA1>
+      <FileSize>12333</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5276497+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary.fbm\Structural\Wood\WoodStructuralUI.xml</FileName>
+      <SHA1>0167078603158AF4E4C468B6897AC79853263AAB</SHA1>
+      <FileSize>14628</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5296534+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary.fbm\Thermal\Gas\GasThermalUI.xml</FileName>
+      <SHA1>CB05442870B42116DBD1D60825B4FB6967AC1896</SHA1>
+      <FileSize>2217</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5336560+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary.fbm\Thermal\Liquid\LiquidThermalUI.xml</FileName>
+      <SHA1>3A6074737CB0E6CEAC392BA12C3058D59B6816EA</SHA1>
+      <FileSize>2681</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5356580+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary.fbm\Thermal\Solid\SolidThermalUI.xml</FileName>
+      <SHA1>C314750EE736C5E9A81A11C7E656E5C3C8C91F8E</SHA1>
+      <FileSize>4218</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5383035+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary-chs.xlf</FileName>
+      <SHA1>3B9D7887D1564C71694662C4E20C9F7990C77D0B</SHA1>
+      <FileSize>847296</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.3981841+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary-cht.xlf</FileName>
+      <SHA1>A52C6BEDC48636FD304EBDCCB99ECD42E4A2E806</SHA1>
+      <FileSize>846543</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.4011865+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary-csy.xlf</FileName>
+      <SHA1>11C2BE5144F4A31D43A8818AC46AE32F1CE8229A</SHA1>
+      <FileSize>884912</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.4286534+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary-deu.xlf</FileName>
+      <SHA1>B39DD6992989C46D8991FAC15B871AD7C07D8B94</SHA1>
+      <FileSize>876820</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.4321558+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary-eng.xlf</FileName>
+      <SHA1>F69C23D224ED9D5759722B6DC84F4774D29BF4DD</SHA1>
+      <FileSize>854940</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.4351419+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary-esp.xlf</FileName>
+      <SHA1>7E46BC7BD6EAA96D1DA4C89BBC3E11A7EF3E48BD</SHA1>
+      <FileSize>877934</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.4387738+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary-fra.xlf</FileName>
+      <SHA1>2CB3255A13AA201E88AABB69278A37ADEE25BFC2</SHA1>
+      <FileSize>877073</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.4407772+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary-hun.xlf</FileName>
+      <SHA1>98E678C3B57BBC68E67A9FBF101F38D24E68C8F5</SHA1>
+      <FileSize>879993</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.4436721+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary-ita.xlf</FileName>
+      <SHA1>AFB7F763FBD4AF58C0966C20525F9C8047D5C060</SHA1>
+      <FileSize>885026</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.4466757+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary-jpn.xlf</FileName>
+      <SHA1>38E17E747F02A1F9C9275BB72A8600EB4B316F9E</SHA1>
+      <FileSize>900310</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.4496788+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary-kor.xlf</FileName>
+      <SHA1>6C37D30712390CADD19074BFC2E2650691159DB8</SHA1>
+      <FileSize>874191</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.4526827+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary-plk.xlf</FileName>
+      <SHA1>3F1E3D456DE18E22D89913BCAE36D33003C95B09</SHA1>
+      <FileSize>887448</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.4579276+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary-ptb.xlf</FileName>
+      <SHA1>20EA03A922C5FFC9A7F14E94A0BF567662041B68</SHA1>
+      <FileSize>876366</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.4609442+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary-rus.xlf</FileName>
+      <SHA1>D4E3D2AA8E683E4B1090BDEF444A06BB427E24FD</SHA1>
+      <FileSize>1020025</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.4647011+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Materials\InventorMaterialLibrary.adsklib</FileName>
+      <SHA1>031DEA254C48D06E2DFDA5288F1869080669662A</SHA1>
+      <FileSize>156524</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.4676935+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Simulation\Report\Autodesk_Logo_Black.png</FileName>
+      <SHA1>79C86ADA9F9D91D239399853C707595594EFF8EC</SHA1>
+      <FileSize>4906</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5686210+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Simulation\Report\Configuration.htm</FileName>
+      <SHA1>ED3F5D7C86CA6680E193D7B0C99FA073788DE4C5</SHA1>
+      <FileSize>33390</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5727516+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Simulation\Report\Constraint.htm</FileName>
+      <SHA1>6DA8CE14748CE2C70F63EF2B0E9BFEC7B8EC9F2E</SHA1>
+      <FileSize>744</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5751158+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Simulation\Report\Contact.htm</FileName>
+      <SHA1>08661A2C3C569CC50C22DFD2265681F0CE2752CF</SHA1>
+      <FileSize>328</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5801331+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Simulation\Report\Figure.htm</FileName>
+      <SHA1>32F48FC8F3C56F4C42CE29E79F446D2466AB77A1</SHA1>
+      <FileSize>444</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5831244+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Simulation\Report\Load.htm</FileName>
+      <SHA1>5986DBC82C95EDF42C64DCFEE814E93D4FBC776B</SHA1>
+      <FileSize>724</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5858585+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Simulation\Report\Main.htm</FileName>
+      <SHA1>B2DEF10245507D726A5F015D7D068B51CC49D6E3</SHA1>
+      <FileSize>5530</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5898749+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Simulation\Report\Material.htm</FileName>
+      <SHA1>0247AD228B9579A22D465FE9D8539EB6C36604B8</SHA1>
+      <FileSize>1075</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5938790+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Simulation\Report\minus.png</FileName>
+      <SHA1>AB97FFD826B712A1AAD109993444BD475DE89CB3</SHA1>
+      <FileSize>167</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6052773+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Simulation\Report\plus.png</FileName>
+      <SHA1>48F4EB18B9A7AB38A872DAB0EC3D57A729F13274</SHA1>
+      <FileSize>172</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6082813+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Simulation\Report\ReactionForces.htm</FileName>
+      <SHA1>FE7D1EF8ADC484FD46051A18C5C1D3C30F6B5389</SHA1>
+      <FileSize>311</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5962680+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Simulation\Report\Shell.htm</FileName>
+      <SHA1>D882F0E8FD427FD51795A262C6A951D8E065C6A8</SHA1>
+      <FileSize>324</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.5992719+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Simulation\Report\Simulation.htm</FileName>
+      <SHA1>F76913125AAC4FACB58D2E330C3667A886010461</SHA1>
+      <FileSize>3563</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6022746+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Tube &amp; Pipe\en-US\piping runs.iam</FileName>
+      <SHA1>7113FF28D799720642996CB4DE021EE42CBB6EB4</SHA1>
+      <FileSize>254464</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6131058+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\XLS\en-US\clearance.xls</FileName>
+      <SHA1>B4606D704D690EF48F777F1791B669F425FE3771</SHA1>
+      <FileSize>125440</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6151089+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\XLS\en-US\thread.xls</FileName>
+      <SHA1>72D23F8C6AD384F871FAAEA7FDD71859467F8D33</SHA1>
+      <FileSize>1639936</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6180947+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\balloon.xml</FileName>
+      <SHA1>9BC054307E6D8CE7F2F03CE2CCBF2301EF5D9436</SHA1>
+      <FileSize>67114</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6211140+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\centermark.xml</FileName>
+      <SHA1>50B1C04D313EF8C6B87F3173C15456A4804AE0AE</SHA1>
+      <FileSize>11470</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6230994+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\datumtarget.xml</FileName>
+      <SHA1>AA1A303EF6FFF1353F58E12B1EF886A16A569487</SHA1>
+      <FileSize>32262</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6261021+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\dimension.xml</FileName>
+      <SHA1>CE7A3EE679ED5259E16E657EAFF6CCE4A86D9CC0</SHA1>
+      <FileSize>3140966</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6301153+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\externalmaterialmapping.xml</FileName>
+      <SHA1>E3BA4FD9AD266D744A4B21FEB52B889320395AF9</SHA1>
+      <FileSize>23608</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6331535+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\featureautoname.xml</FileName>
+      <SHA1>F9FBFC61FCA180A992ACF53C74910BE172A3B21E</SHA1>
+      <FileSize>16466</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6357240+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\featurecontrolframe.xml</FileName>
+      <SHA1>CD10B754EBB0DC17F749A7C4580D8A5B8BE25194</SHA1>
+      <FileSize>31734</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6387337+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\hatch.xml</FileName>
+      <SHA1>260CE723D14418811686C0732E2AB49AA76B5E6A</SHA1>
+      <FileSize>7546</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6430905+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\holetable.xml</FileName>
+      <SHA1>D5A8FE8A7E4C6A3824245FC166B0681FF9E48580</SHA1>
+      <FileSize>1512096</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6467642+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\id.xml</FileName>
+      <SHA1>952FF7A9D600C0C70DDF7E7018CB6F4F0E9F469F</SHA1>
+      <FileSize>44110</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6491113+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\layers.xml</FileName>
+      <SHA1>51D0A4285B75D63A252E38E866DE25D21751FBA3</SHA1>
+      <FileSize>170388</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6521333+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\leader.xml</FileName>
+      <SHA1>A4E636E11CA77F70A0D79562E9F21DB6F1DD5694</SHA1>
+      <FileSize>51998</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6547936+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\lighting.xml</FileName>
+      <SHA1>B4B778C5DF11D4295BE8B1594A9EDC5AAA2B9B97</SHA1>
+      <FileSize>32854</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6567964+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\materialmapping.xml</FileName>
+      <SHA1>1488430ACD15C26B6D40CAA75E6FAB43CFBABA0B</SHA1>
+      <FileSize>207140</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6588148+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\objectdefaults.xml</FileName>
+      <SHA1>93F7163DA27C8B2405EC5F54499C64628D3C6001</SHA1>
+      <FileSize>496468</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6618179+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\partslist.xml</FileName>
+      <SHA1>CC1835A0CDDC43F0E9FAE12C99EC6A1619C8181F</SHA1>
+      <FileSize>359332</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6638035+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\propertymap.xml</FileName>
+      <SHA1>77327AB2485B01DFF38165D6C9ECA39CCFF7716C</SHA1>
+      <FileSize>14552</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6658217+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\proteinmapping.xml</FileName>
+      <SHA1>38EFB70685DE51C9CF9DB21914DDC51311486DE0</SHA1>
+      <FileSize>658754</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6688250+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\realisticallowedcommands.xml</FileName>
+      <SHA1>8B03A5A5EC00F70D14E83A5FAEE4884CACD4CB62</SHA1>
+      <FileSize>30354</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6708366+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\revisiontable.xml</FileName>
+      <SHA1>9EF2C6D3176E06DD0C6FF9C6E64E713D3B4044F4</SHA1>
+      <FileSize>110710</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6728279+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\sheetmetalrules.xml</FileName>
+      <SHA1>A590DB960C13C94B7A360C431DB604A29CF1E700</SHA1>
+      <FileSize>6820</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6768324+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\sheetmetalunfold.xml</FileName>
+      <SHA1>55E2125C88570E053875D92BF671AE61308DF07A</SHA1>
+      <FileSize>6326</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6788343+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\standard.xml</FileName>
+      <SHA1>DF82ECC1F44D4597FA1E510D9E8937DC2E42D949</SHA1>
+      <FileSize>294368</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6808356+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\studioimagebasedlighting.xml</FileName>
+      <SHA1>07F89CF11EF7A8481174A3A6472F50806F3A4CCC</SHA1>
+      <FileSize>14368</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6828263+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\studiolighting.xml</FileName>
+      <SHA1>1FF22C2607FA35890A99F047F8B35CF3014A0590</SHA1>
+      <FileSize>256476</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6858239+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\studioscene.xml</FileName>
+      <SHA1>8EA66C1151DEC28B06F9A378A034B78308088F75</SHA1>
+      <FileSize>23588</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6878430+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\surfacetexture.xml</FileName>
+      <SHA1>96BB432820310B192C6C2AA2706112DE061E4A6B</SHA1>
+      <FileSize>24362</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6898278+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\table.xml</FileName>
+      <SHA1>702F0ED1513933426DA66C3981DB19B01EEBC5D1</SHA1>
+      <FileSize>40658</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6918465+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\Template.config</FileName>
+      <SHA1>4D5484DF0FA7E6C4407F3CFC82E2DC61D33E13B8</SHA1>
+      <FileSize>116</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6100859+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\text.xml</FileName>
+      <SHA1>629FF5992CCBCB511F064B5D28B3055850BAA8D7</SHA1>
+      <FileSize>31134</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6938478+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\viewannotation.xml</FileName>
+      <SHA1>CA0003FF625B90229A221DF6798AF937A252ED09</SHA1>
+      <FileSize>30266</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6958498+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\weld.xml</FileName>
+      <SHA1>53CD48F1AE5A035692B9AE058BBF8D126853885C</SHA1>
+      <FileSize>38690</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.6978517+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Design Data\weldbead.xml</FileName>
+      <SHA1>F499382260D910196E24CC6F553CA57445523730</SHA1>
+      <FileSize>15492</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.7005243+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\hinge1\OldVersions\Part2.0001.ipt</FileName>
+      <SHA1>2D2DAECAABCF6B4B74EC02C00A5BE7BB33F73285</SHA1>
+      <FileSize>392192</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.9873127+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\hinge1\OldVersions\Part4.0001.ipt</FileName>
+      <SHA1>4BB445C3C2DF0CE1F05819BAF9C2874E6F886F70</SHA1>
+      <FileSize>389632</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.9893149+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\hinge1\OldVersions\Part6.0001.ipt</FileName>
+      <SHA1>4F12719699AA5997AD2138DD0F4AC3058A28FB78</SHA1>
+      <FileSize>67072</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.0003250+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\hinge1\Assembly1.iam</FileName>
+      <SHA1>5DFA2A9D5A1AA41FA6B618F402762859F0CDC445</SHA1>
+      <FileSize>144896</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.9843103+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\hinge1\Part12.ipt</FileName>
+      <SHA1>5A4C9E6A1B4757C5D21793DACB006921D8E9E6CE</SHA1>
+      <FileSize>503296</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.0033277+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\hinge1\Part2.ipt</FileName>
+      <SHA1>6DF7AE029B373B35260FBD1D9C3A7D44028DCEC3</SHA1>
+      <FileSize>392192</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.0053299+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\hinge1\Part4.ipt</FileName>
+      <SHA1>F9448AF64940BBF866A129954987E63C38F49241</SHA1>
+      <FileSize>389632</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.0356998+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\hinge1\Part6.ipt</FileName>
+      <SHA1>7A2F9CF2B7EAE614C833D6B86DFC69D71654F630</SHA1>
+      <FileSize>67072</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.0387034+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\hinge1\Part8.ipt</FileName>
+      <SHA1>F6208C305378D1412B6CA8C577D0A22564EE396D</SHA1>
+      <FileSize>502784</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.0407057+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\OldVersions\Assembly1.0002.iam</FileName>
+      <SHA1>3B0CC13A56BE86B69A117B904B4395DFCB3DA535</SHA1>
+      <FileSize>57344</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.7025295+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\OldVersions\Assembly1.ipj.bak</FileName>
+      <SHA1>90B6A2FB5B7ADD847C07119E214951223992717C</SHA1>
+      <FileSize>9776</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.7045444+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\OldVersions\Assembly1.ipj.old.bak</FileName>
+      <SHA1>33B31013C9ADFC4ADE33839C4D3DBF4339A14995</SHA1>
+      <FileSize>9290</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.7075468+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\English\am_ansi.dwg</FileName>
+      <SHA1>2C6107369C242DC2F8F509CF815A06E82F13046A</SHA1>
+      <FileSize>266400</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.7973449+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\English\ANSI (in).dwg</FileName>
+      <SHA1>6B1DA123F0A9A1163B29F9FB9F6BCB4FF8419477</SHA1>
+      <FileSize>160279</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.7185569+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\English\ANSI (in).idw</FileName>
+      <SHA1>84A9079EA880C160DAD6B86758B5E9F9EACFF1BD</SHA1>
+      <FileSize>162816</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.7205443+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\English\Mold Design (in).iam</FileName>
+      <SHA1>F07BAAAA8B7F0D21AC669BEF813B85515D75D43E</SHA1>
+      <FileSize>68608</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.7492334+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\English\Sheet Metal (in).ipt</FileName>
+      <SHA1>56F655105AF6C1786F734D763C5174B4608A06BB</SHA1>
+      <FileSize>74752</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.7692751+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\English\Standard (in).iam</FileName>
+      <SHA1>84E98BF3C94194C4F8335147AEF893F2619B107B</SHA1>
+      <FileSize>67584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.7722790+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\English\Standard (in).ipn</FileName>
+      <SHA1>022FFD86FB619281C3A1AC4ADC4B40C334B615A7</SHA1>
+      <FileSize>31744</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.7752820+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\English\Standard (in).ipt</FileName>
+      <SHA1>0C04823C29D6B899EF36AEC3225C2B13DFA62E5B</SHA1>
+      <FileSize>66048</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.7782859+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\English\Weldment (ANSI).iam</FileName>
+      <SHA1>A8B03AA1B4239CD3F9048984CEDFD697BF4B8AB7</SHA1>
+      <FileSize>193024</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.7943488+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\am_bsi.dwg</FileName>
+      <SHA1>96319828A3AAD9604EB262DCA7E097FB54FFDC61</SHA1>
+      <FileSize>283744</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.9432709+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\am_din.dwg</FileName>
+      <SHA1>DDF4948A1CD18DDB1B34F9D24DB79D0827CE2EBA</SHA1>
+      <FileSize>335328</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.9452723+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\am_gb.dwg</FileName>
+      <SHA1>C8C9422C86D6A23CC85CAAD28571CEDE00BE3993</SHA1>
+      <FileSize>300608</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.9482750+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\am_iso.dwg</FileName>
+      <SHA1>3F8D04C9AB108486208C453390C21EF22F3F4738</SHA1>
+      <FileSize>307872</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.9512783+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\am_jis.dwg</FileName>
+      <SHA1>C4341EBD4A840D15C9F5EAD854331B01904583C0</SHA1>
+      <FileSize>280448</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.9532802+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\ANSI (mm).dwg</FileName>
+      <SHA1>0F5489E9DD6D406A1159112E4724DAAFBCFCA377</SHA1>
+      <FileSize>158421</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.8003488+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\ANSI (mm).idw</FileName>
+      <SHA1>54CC51E35774E36076ED1A43A849CAE9C5A96809</SHA1>
+      <FileSize>161792</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.8290069+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\BSI.dwg</FileName>
+      <SHA1>BE6B25E3CF2C2FBE12618C8F4EBD2C2968FAC185</SHA1>
+      <FileSize>115978</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.8320093+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\BSI.idw</FileName>
+      <SHA1>4FD3227948F5B94310A608E4CB88984427F5CFDD</SHA1>
+      <FileSize>119808</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.8350120+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\DIN.dwg</FileName>
+      <SHA1>5095ABC8A00FA55D5A8E1B8DA11DB0D89EF5CF6C</SHA1>
+      <FileSize>127432</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.8432648+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\DIN.idw</FileName>
+      <SHA1>1D3511A9760AD353DA8D23DABE5F875D15436320</SHA1>
+      <FileSize>131072</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.8472722+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\GB.dwg</FileName>
+      <SHA1>C67B2FB3CE184BA0D77583280787A913DFF6D1A8</SHA1>
+      <FileSize>155756</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.8492717+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\GB.idw</FileName>
+      <SHA1>930B011399C2D981FA9B264F106CD1AADCDAA3CF</SHA1>
+      <FileSize>158720</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.8522745+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\GOST.dwg</FileName>
+      <SHA1>4E00F6B8D468705D4D6987C74468B06C851BA404</SHA1>
+      <FileSize>288023</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.8552775+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\GOST.idw</FileName>
+      <SHA1>86B6C5A6DD608582702CCBB1C6DBEC1A7188B898</SHA1>
+      <FileSize>295936</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.8681985+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\ISO.dwg</FileName>
+      <SHA1>5DC34CC168152FE2D24374D8F19C7610CCFC9DC2</SHA1>
+      <FileSize>117829</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.8712015+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\ISO.idw</FileName>
+      <SHA1>95EEDBFB75674E0BF1A2A9861CA6393ABE01E573</SHA1>
+      <FileSize>121344</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.8752053+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\JIS.dwg</FileName>
+      <SHA1>6B581E5BA47D3AD051F187191F56B90470C1ECAF</SHA1>
+      <FileSize>117544</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.8782090+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\JIS.idw</FileName>
+      <SHA1>7044C2312964869DE415A83AC4519F86E5662D5D</SHA1>
+      <FileSize>120320</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.8902198+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\Mold Design (DIN).iam</FileName>
+      <SHA1>31CB3495D77EF80829BC52A06C3A2691C32EE819</SHA1>
+      <FileSize>67584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.8932238+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\Mold Design (mm).iam</FileName>
+      <SHA1>AC3EF4EFFEDDEDB2F8A11D20AF9510EA0B208DB5</SHA1>
+      <FileSize>67584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.8962265+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\Sheet Metal (DIN).ipt</FileName>
+      <SHA1>8F0619F5A2F551A3D7600CFB9E5CE2635B6FBA65</SHA1>
+      <FileSize>72192</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.8992292+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\Sheet Metal (mm).ipt</FileName>
+      <SHA1>EFC62C3D403C8FA85013E4E065B0C725F047DBBD</SHA1>
+      <FileSize>72192</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.9022316+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\Standard (DIN).iam</FileName>
+      <SHA1>44E1E3C77AF2F82B0BE78F4211878A40C9ECA9F5</SHA1>
+      <FileSize>67584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.9052346+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\Standard (DIN).ipn</FileName>
+      <SHA1>F4C3AD8A811C06C0629ABA4EB533C906359C11E7</SHA1>
+      <FileSize>31744</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.9082373+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\Standard (DIN).ipt</FileName>
+      <SHA1>D965F096560E1BD430DA365AF0F29793DD71F103</SHA1>
+      <FileSize>67072</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.9102386+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\Standard (mm).iam</FileName>
+      <SHA1>03EC1B10D01368D2F2137768A201A371ECA96525</SHA1>
+      <FileSize>67584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.9132417+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\Standard (mm).ipn</FileName>
+      <SHA1>F26065F1A291E63170618E6A6205B49613C2C59C</SHA1>
+      <FileSize>31744</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.9152517+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\Standard (mm).ipt</FileName>
+      <SHA1>BEE27A06587A78D8DD7EA26A15DE04AC08C7BC76</SHA1>
+      <FileSize>67072</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.9182466+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\Weldment (ANSI - mm).iam</FileName>
+      <SHA1>D797ABA67A301103E6D80C5C221EB9109AE718FD</SHA1>
+      <FileSize>193024</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.9272554+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\Weldment (BSI).iam</FileName>
+      <SHA1>F8A0B95C7F215BD8A3854CF4F89B1A4DD0A02995</SHA1>
+      <FileSize>193024</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.9302581+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\Weldment (DIN).iam</FileName>
+      <SHA1>D4766A83C4C6A9AB24B8D3D736E16B7B937880B4</SHA1>
+      <FileSize>193536</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.9332611+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\Weldment (GB).iam</FileName>
+      <SHA1>2DB610F3AB10A2340D2719FE46517E113A12926D</SHA1>
+      <FileSize>193024</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.9352633+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\Weldment (ISO).iam</FileName>
+      <SHA1>4A9BDCCCCF133C97D9C35155DBF7DB2C7215018F</SHA1>
+      <FileSize>193024</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.9382660+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Metric\Weldment (JIS).iam</FileName>
+      <SHA1>9924431C28BF32B751C17EC5E73574ACDC50DEBE</SHA1>
+      <FileSize>193024</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.9402676+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Mold Design\Mold Design.iam</FileName>
+      <SHA1>F07BAAAA8B7F0D21AC669BEF813B85515D75D43E</SHA1>
+      <FileSize>68608</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.9572840+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Sheet Metal.ipt</FileName>
+      <SHA1>56F655105AF6C1786F734D763C5174B4608A06BB</SHA1>
+      <FileSize>74752</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.9702963+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Standard.dwg</FileName>
+      <SHA1>6B1DA123F0A9A1163B29F9FB9F6BCB4FF8419477</SHA1>
+      <FileSize>160279</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.9722982+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Standard.iam</FileName>
+      <SHA1>84E98BF3C94194C4F8335147AEF893F2619B107B</SHA1>
+      <FileSize>67584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.9743004+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Standard.idw</FileName>
+      <SHA1>84A9079EA880C160DAD6B86758B5E9F9EACFF1BD</SHA1>
+      <FileSize>162816</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.9763023+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Standard.ipn</FileName>
+      <SHA1>022FFD86FB619281C3A1AC4ADC4B40C334B615A7</SHA1>
+      <FileSize>31744</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.9783040+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Standard.ipt</FileName>
+      <SHA1>0C04823C29D6B899EF36AEC3225C2B13DFA62E5B</SHA1>
+      <FileSize>66048</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.9803059+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Templates\Weldment.iam</FileName>
+      <SHA1>A8B03AA1B4239CD3F9048984CEDFD697BF4B8AB7</SHA1>
+      <FileSize>193024</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.9823078+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Assembly1.iam</FileName>
+      <SHA1>4584D82DD18632CFB75004FD42310B31D9B69630</SHA1>
+      <FileSize>1279488</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.2287685+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Assembly1.ipj</FileName>
+      <SHA1>90B6A2FB5B7ADD847C07119E214951223992717C</SHA1>
+      <FileSize>9776</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.2337725+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Assembly1.ipj.old</FileName>
+      <SHA1>33B31013C9ADFC4ADE33839C4D3DBF4339A14995</SHA1>
+      <FileSize>9290</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.2367753+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\packngo.log</FileName>
+      <SHA1>CF7C929F1AEC94745B4A325A398489513E81FE6E</SHA1>
+      <FileSize>764</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.0427076+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Part2.ipt</FileName>
+      <SHA1>A7FB8DB8DD835F387F2E53D56FACC1B1DC53826D</SHA1>
+      <FileSize>8481280</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.7135510+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Imported Components\Part4.ipt</FileName>
+      <SHA1>A7745617FB9E5769BC46F7B26F4C2B8C08624CA7</SHA1>
+      <FileSize>264192</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:13.7155517+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\bar drawing.0001.dwg</FileName>
+      <SHA1>7B11523618502B960A992B03E9F632DEBAB91273</SHA1>
+      <FileSize>233812</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.1726788+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\board drawing.0003.dwg</FileName>
+      <SHA1>643D90B6F3B3B3826E9B42CB0DD5F4A79858FACF</SHA1>
+      <FileSize>221358</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.1776994+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\bumper.0001.ipt</FileName>
+      <SHA1>860A104A9F20CC87F8DDABC6CA9C063F561E3D78</SHA1>
+      <FileSize>101376</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.1816873+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\driver station.0023.iam</FileName>
+      <SHA1>AE371CBA0DEC8BDB21823CE3098F71ED7ED275E2</SHA1>
+      <FileSize>2430976</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.1876930+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\latch.0002.iam</FileName>
+      <SHA1>E121AFF32BE85C7B0F406F263A3AD8434F9C32B8</SHA1>
+      <FileSize>254976</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.2104239+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Part1.0003.ipt</FileName>
+      <SHA1>DDA3B4303793E141161A95176CF905B120E5EF16</SHA1>
+      <FileSize>75264</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.0904110+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Part1.0004.ipt</FileName>
+      <SHA1>2B562BD4E7473AB5181D319A0DA5487824C914D6</SHA1>
+      <FileSize>75776</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.0984223+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Part2.0003.ipt</FileName>
+      <SHA1>90A42BF823CC4F368E67677E4D4F68648D1D248A</SHA1>
+      <FileSize>74752</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.1226316+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Part3.0003.ipt</FileName>
+      <SHA1>E8D68FA6BE2486E3B0E9EC296BFEB759249415F6</SHA1>
+      <FileSize>74752</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.1306613+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Part4.0002.ipt</FileName>
+      <SHA1>D7C7FB2A64C017DDA1AD31D4D8A2B90E230B1A31</SHA1>
+      <FileSize>73216</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.1386469+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Part5.0002.ipt</FileName>
+      <SHA1>5FBDA60A5EBF89C3F40DA036BF0BA12B23A6E544</SHA1>
+      <FileSize>73728</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.1456541+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Part6.0002.ipt</FileName>
+      <SHA1>20D7F9AC6A8E25951347E2089E8CE293D0D1B767</SHA1>
+      <FileSize>68096</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.1536614+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Part7.0003.ipt</FileName>
+      <SHA1>3663B7D910FA1644D14985C04A03C2A7FCCC81BC</SHA1>
+      <FileSize>87040</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.1606830+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Part8.0002.ipt</FileName>
+      <SHA1>025C5266E6FEF11B8F4927FE8C790543767C5E1D</SHA1>
+      <FileSize>68608</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.1646712+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Part9.0001.ipt</FileName>
+      <SHA1>C10A78F92F581D7F312FC78D281C7D0299E080C5</SHA1>
+      <FileSize>70144</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.1686753+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>bar drawing.dwg</FileName>
+      <SHA1>0B12459FF1CD629043375A97E2528FE692052CAE</SHA1>
+      <FileSize>232181</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.2354504+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>board drawing.dwg</FileName>
+      <SHA1>EBC8A77D35E0C56CB99C9A3820811DE063A4F29E</SHA1>
+      <FileSize>221677</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.2384507+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>bumper.ipt</FileName>
+      <SHA1>804F17CEEA19C233DA3B083BB57E5B152DFA56E8</SHA1>
+      <FileSize>113152</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.2404517+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>buttonbox standin.ipt</FileName>
+      <SHA1>8F7C0EEF81E6FC7A1A1CC887209A53A26400D340</SHA1>
+      <FileSize>68608</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.2424684+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>driver station.iam</FileName>
+      <SHA1>C9545AC3F51E581E7C98537F8806099B6AAEF25D</SHA1>
+      <FileSize>3022336</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.2464577+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>finalhinge.ipt</FileName>
+      <SHA1>031BB3D07CD500EE14F61C3824DE942CC8CFB530</SHA1>
+      <FileSize>166400</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.2504616+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>handle.ipt</FileName>
+      <SHA1>FA81D958B0DE74DC21E0B87CD748BC479F2801BC</SHA1>
+      <FileSize>713728</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.2525475+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>hinge.iam</FileName>
+      <SHA1>1F68784CE2BCF8DF7EE6A37BB5D083ACAEAB2435</SHA1>
+      <FileSize>228352</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.2545509+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>hinge.zip</FileName>
+      <SHA1>C49095B99569E179506C01094902AB32B6EBE272</SHA1>
+      <FileSize>94555</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.2575639+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>hinge1.sat</FileName>
+      <SHA1>62BDEE86E58E4997C478472C0D4BF1380351F845</SHA1>
+      <FileSize>2700175</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.2635594+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>hingeee.iam</FileName>
+      <SHA1>38D625E9D62A6430BDA7126EC4F46171D7969C80</SHA1>
+      <FileSize>155136</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.2695657+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>laptopstandin.ipt</FileName>
+      <SHA1>A83088A2EAB9F2EC60C01243D9FBBE37E561B633</SHA1>
+      <FileSize>68096</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.2715673+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>latch.iam</FileName>
+      <SHA1>6808A67EF73E0790E3D5212C2949A264D2FF7D3B</SHA1>
+      <FileSize>254976</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.2735692+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>logitech joystick.ipt</FileName>
+      <SHA1>F4C024A73E2E94FE817F793B59B91118A6706F36</SHA1>
+      <FileSize>13735936</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.2815766+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Part1.ipt</FileName>
+      <SHA1>9E60E8F4E8E84D62CF9CEB1DEC7D7961302872E1</SHA1>
+      <FileSize>75776</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.2134260+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Part2.ipt</FileName>
+      <SHA1>94EDF8C042812FF43990270EE2C9AEB701FDDE0D</SHA1>
+      <FileSize>90624</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.2154289+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Part3.ipt</FileName>
+      <SHA1>85016EEF7294BFBF215586CCF12A22F2D1E4E389</SHA1>
+      <FileSize>81920</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.2194318+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Part4.ipt</FileName>
+      <SHA1>0B1B7308EBA3CA928256DD492DC8CF6237138185</SHA1>
+      <FileSize>82944</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.2224426+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Part5.ipt</FileName>
+      <SHA1>5273573D624A1B3AC3643190D03F03EAE059EF4F</SHA1>
+      <FileSize>78848</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.2244482+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Part6.ipt</FileName>
+      <SHA1>38FC32F5FFC4729ED4FD983BB1A0F331F06F78C2</SHA1>
+      <FileSize>89600</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.2264383+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Part7.ipt</FileName>
+      <SHA1>70AA8EF7FF22D0F94502E78DBB64F6A373C9EB4E</SHA1>
+      <FileSize>83968</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.2294413+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Part8.ipt</FileName>
+      <SHA1>5FF7FA0C17385693412E6091159FE83AFD32DBA2</SHA1>
+      <FileSize>90112</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.2314433+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Part9.ipt</FileName>
+      <SHA1>CECF798194DECD570C94511485CC13DEA351779B</SHA1>
+      <FileSize>87552</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.2334449+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>rubber bumper.ipt</FileName>
+      <SHA1>A8146E8EF4261A23F93D4E8F1B8831A927FD059C</SHA1>
+      <FileSize>971776</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-09-29T20:29:14.2877453+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>
