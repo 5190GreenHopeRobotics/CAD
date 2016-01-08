@@ -1,0 +1,1274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2016-01-07T20:14:47.0146157-05:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-2588 1in.20121203\OldVersions\217-2588-001 Rev4.0001.ipt</FileName>
+      <SHA1>DA2BC0A1B59EEBE444619CE3E1E5F9914E464DA9</SHA1>
+      <FileSize>2166272</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.0037481+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-2588 1in.20121203\OldVersions\BEAM-0750.0001.ipt</FileName>
+      <SHA1>B93E26356D72B45C563CA5D536EE18AA070B3E9D</SHA1>
+      <FileSize>104960</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.0057496+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-2588 1in.20121203\OldVersions\NUT-832-NYLOCK.0001.ipt</FileName>
+      <SHA1>359ADAF3BED3B3A6ABDC7A54A8081A2BB4AA0927</SHA1>
+      <FileSize>131584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.0102613+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-2588 1in.20121203\OldVersions\SCREW-832-1250.0001.ipt</FileName>
+      <SHA1>BAB315F5AB282B774184967392A632D7DFFE09A1</SHA1>
+      <FileSize>86016</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.0122632+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-2588 1in.20121203\217-2588 1in.20121203.htm</FileName>
+      <SHA1>87355D046FDF405F3C73E3352CF6CB18C2C5C2E1</SHA1>
+      <FileSize>18232</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:42.9877359+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-2588 1in.20121203\217-2588-001 Rev4.ipt</FileName>
+      <SHA1>F96A2B67DF1CF29D2313758AB0AECBD31B45DA99</SHA1>
+      <FileSize>2323968</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:42.9937406+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-2588 1in.20121203\BEAM-0750.ipt</FileName>
+      <SHA1>E5AE0823E5A42D5E7AE2DB885CD0A15712919A3F</SHA1>
+      <FileSize>123904</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:42.9967436+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-2588 1in.20121203\NUT-832-NYLOCK.ipt</FileName>
+      <SHA1>E88EE71541F06936EA6F67B718DFE5A099F6CFD9</SHA1>
+      <FileSize>151040</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:42.9987442+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-2588 1in.20121203\SCREW-832-1250.ipt</FileName>
+      <SHA1>1C52B3CB740FD5A8BA1F9ED7B3169FC52526A275</SHA1>
+      <FileSize>104960</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.0142646+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-2732.20121205\217-2732.20121205.htm</FileName>
+      <SHA1>F1C7B90557E8619D9B2B3A03ADE4CD6E0BF8F00B</SHA1>
+      <FileSize>11298</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.0172676+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-2859-on-wheel-STEP\217-2859-on-wheel-STEP.htm</FileName>
+      <SHA1>F5948C54ED2E566248393B3DE1D72290481D34DB</SHA1>
+      <FileSize>19616</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.0437984+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-2859-STEP\OldVersions\217-2859-001 Rev4.0001.ipt</FileName>
+      <SHA1>2A7154BA0B754E88FDF6C197DBD852128EF0F935</SHA1>
+      <FileSize>2486272</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.0347920+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-2859-STEP\OldVersions\217-2859-011 rev3.0001.ipt</FileName>
+      <SHA1>B7C9F35042F6ACBF2FDE364C51D4B28AAF14E0D4</SHA1>
+      <FileSize>1268736</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.0387948+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-2859-STEP\217-2859-001 Rev4.ipt</FileName>
+      <SHA1>7A19FBABF2B5395FC51AB491E5B82B42958A7CD8</SHA1>
+      <FileSize>2498560</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.0207688+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-2859-STEP\217-2859-011 rev3.ipt</FileName>
+      <SHA1>6CFD0233EFEED1C87A7958EB788DCABAFD1E0CDA</SHA1>
+      <FileSize>1278976</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.0237713+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-2859-STEP\217-2859-STEP.htm</FileName>
+      <SHA1>AA4081CFC226F22AFFA6174679A164DE59BE2D0A</SHA1>
+      <FileSize>12958</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.0267889+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-2859-STEP\217-2859-STEP.iam</FileName>
+      <SHA1>2F459EF35DFCB68787AD546DA205D5AED4DE288C</SHA1>
+      <FileSize>365568</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.0297889+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3227-STEP\OldVersions\217-3227-STEP.0001.ipt</FileName>
+      <SHA1>51DD94120CF32EEDC26E6B2196EBE35F42CE9A44</SHA1>
+      <FileSize>870400</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.0528056+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3227-STEP\217-3227-STEP.htm</FileName>
+      <SHA1>580C51DF6E44C8924EF3D10C45AAB871E2CB5C85</SHA1>
+      <FileSize>11250</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.0457998+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3227-STEP\217-3227-STEP.ipt</FileName>
+      <SHA1>301AD45151325E5C4B789DB5103E0FBA060DB12B</SHA1>
+      <FileSize>870912</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.0498031+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3231-STEP\217-3231-STEP.htm</FileName>
+      <SHA1>3F83C9CC3A9D1C544095CC6A7D741D4939E162FA</SHA1>
+      <FileSize>11250</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.0568081+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3431-STEP\OldVersions\217-3431-STEP.0001.ipt</FileName>
+      <SHA1>70C57688A746D87966728A7D5E40B8980F556CBA</SHA1>
+      <FileSize>174080</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.0918385+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3431-STEP\217-3431-STEP.htm</FileName>
+      <SHA1>726BAEA7480AF3FB3A4A0D9DA83D75B79F513383</SHA1>
+      <FileSize>11242</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.0608113+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3431-STEP\217-3431-STEP.ipt</FileName>
+      <SHA1>3FCFD8380763BFE41997840F953EC7A411F94DC2</SHA1>
+      <FileSize>174080</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.0638135+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3432-STEP-v2\217-3432-STEP-v2.htm</FileName>
+      <SHA1>552902ACA3E8E0844922B43322948AB8DC50E61B</SHA1>
+      <FileSize>11278</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.0948355+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3432-STEP-v2\217-3432-STEP-v2.ipt</FileName>
+      <SHA1>14E148AF23AC92FCEFE72F865493FFCDFF51B6F6</SHA1>
+      <FileSize>264704</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.0978372+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\OldVersions\217-3433-002 Rev1.0001.ipt</FileName>
+      <SHA1>34436B446FE95B9932081CF9A3050D26B00B6E84</SHA1>
+      <FileSize>212480</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2359615+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\OldVersions\217-3433-PTO Config STEP.0001.iam</FileName>
+      <SHA1>DC71AFB3978E2351E063759B3AA4F53424A32EC0</SHA1>
+      <FileSize>1895424</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2399639+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-2000.ipt</FileName>
+      <SHA1>E0B67DA2FD808E2FF1C9F805D7BB0B7A37678A5A</SHA1>
+      <FileSize>152576</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1008389+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-2428-027 Rev1_97414A630.ipt</FileName>
+      <SHA1>E69A3E574F7319FB683EFA63F14EA1FA19389BB4</SHA1>
+      <FileSize>83456</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1028408+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-2614-002_98430A132.ipt</FileName>
+      <SHA1>53EBD55BD0D373D8823D008174C06FFAEDCB19E6</SHA1>
+      <FileSize>329216</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1068436+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-2705-001_30t.ipt</FileName>
+      <SHA1>C5DC263A7BEA8C951A08C82280D108EE44005AC4</SHA1>
+      <FileSize>515072</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1113571+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-2731.ipt</FileName>
+      <SHA1>C9F5ABA5697106C581D3C0481722E084CBA1DE20</SHA1>
+      <FileSize>96768</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1138584+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-2733.ipt</FileName>
+      <SHA1>817500D0155EEF6D41B66700A387993013A67E4E</SHA1>
+      <FileSize>96256</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1163611+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-2734.ipt</FileName>
+      <SHA1>A20BC0237ED0928426E687D3BA4E520664344632</SHA1>
+      <FileSize>99328</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1188620+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-2743.ipt</FileName>
+      <SHA1>9E13DDFA76BB9C8EE1337C460F23AD0470EC0DF8</SHA1>
+      <FileSize>376832</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1218654+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-2758-001 Rev1.ipt</FileName>
+      <SHA1>5231E6D4CD774AEC3FBB47DEC59F52A81F1B261E</SHA1>
+      <FileSize>78848</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1248667+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-2761-001 rev1.ipt</FileName>
+      <SHA1>7C2030CE953B0F8EE23DF20084C24BDC2DD42882</SHA1>
+      <FileSize>71168</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1278722+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-2778-001 Rev2_NCQ8A075-050M.iam</FileName>
+      <SHA1>FFA0E3577CD554BFDDB8DBFEBD6D942F322D937E</SHA1>
+      <FileSize>59904</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1288725+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-2778-NCQ8A075-050M_1032_Nut_90545A111.ipt</FileName>
+      <SHA1>E3303247CF27F826215BDC4E24B99BBC50B75554</SHA1>
+      <FileSize>360960</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1308735+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-2778-NCQ8A075-050M_NCQ8 Rod_075M.ipt</FileName>
+      <SHA1>1F786DE9592BF39EC75BDA8F66E8E732341CB7C4</SHA1>
+      <FileSize>91648</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1328754+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-2778-NCQ8A075-050M_NCQ8 Tube_075A.ipt</FileName>
+      <SHA1>383350EF9CCD584299CEA556701B6EF835793E9B</SHA1>
+      <FileSize>217088</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1348768+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-2778-NCQ8A075-050M_Snap Ring_075.ipt</FileName>
+      <SHA1>5A78985195FA772056E0D7988ADF58BAEF522587</SHA1>
+      <FileSize>93696</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1378794+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3100-001_14t.ipt</FileName>
+      <SHA1>2840D2301357DF4100E0BB66EBD2B1938431A400</SHA1>
+      <FileSize>436736</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1398808+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3195-010 Rev1.ipt</FileName>
+      <SHA1>C2FBB1D19CFF93AA2B558B38210F792BC3483C48</SHA1>
+      <FileSize>238592</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1428821+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3195-200 Rev1.iam</FileName>
+      <SHA1>B6AE3B2539F3D4F61DB5337CF8F2DF00800B1188</SHA1>
+      <FileSize>502784</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1448848+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3210-001 Rev1_30t.ipt</FileName>
+      <SHA1>88810EBAAF349363570E8E0FB45D724C842C2F0F</SHA1>
+      <FileSize>515072</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1468853+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3215-001 Rev1_42t.ipt</FileName>
+      <SHA1>0EF7FC828FBB29DC81C81FCA3715E87A0DD8C968</SHA1>
+      <FileSize>705024</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1498879+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3256-001 Rev1.ipt</FileName>
+      <SHA1>95F1849E2393589E66BD25B0ACD74B3489FA7407</SHA1>
+      <FileSize>78848</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1518889+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3257-001 Rev1.ipt</FileName>
+      <SHA1>8DD15167A564D65C22BD127D875B831544F4E10C</SHA1>
+      <FileSize>78336</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1538912+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3259-001 Rev1.ipt</FileName>
+      <SHA1>79CF4E2397AE468466B1F57699CEF9F559350276</SHA1>
+      <FileSize>78848</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1558917+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3261-001 Rev1.ipt</FileName>
+      <SHA1>3256EF6F2BA7E43AD248D2E06C457AB3C7F7E0E8</SHA1>
+      <FileSize>78336</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1588939+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3263-001 Rev1.ipt</FileName>
+      <SHA1>3272890228213C861AFF54A3D6AD26B33B15E42D</SHA1>
+      <FileSize>77824</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1618960+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3414-001 Rev1_14t Steel Pinion.ipt</FileName>
+      <SHA1>204E9CAEBF499598CBBBC1B376BC308273A678A6</SHA1>
+      <FileSize>278528</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1648990+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3418-001 Rev2_44t.ipt</FileName>
+      <SHA1>0C65D1E66AC066C523DEA85C11FDC2930C12A6D4</SHA1>
+      <FileSize>699904</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1679007+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3420-001 Rev2_60t.ipt</FileName>
+      <SHA1>71B5920363BC14B423C1AF356056979F7D703366</SHA1>
+      <FileSize>1336832</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1709037+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3421-007 Rev1.ipt</FileName>
+      <SHA1>C46477FA793A40DD69D8A82094AD0858125023CD</SHA1>
+      <FileSize>91648</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1729038+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3421-009 Rev1.ipt</FileName>
+      <SHA1>E556A085EF1B7965709C500E354704979A27A3B7</SHA1>
+      <FileSize>101376</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1759068+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3421-010 Rev1.ipt</FileName>
+      <SHA1>E18EE9399ACA0074E20CC0A7A714EA3C08A5CD73</SHA1>
+      <FileSize>299008</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1789085+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3421-011 Rev2_97633A200.ipt</FileName>
+      <SHA1>244343DED17ACA9508230C03292875032DEBDB9F</SHA1>
+      <FileSize>97792</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1809099+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3422-004 Rev2.ipt</FileName>
+      <SHA1>2E350B277159145E598C25B5E77735074884ADE3</SHA1>
+      <FileSize>133632</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1839125+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3422-007 Rev1.ipt</FileName>
+      <SHA1>DFD6678B98129C10E60FF505024E5D451F037385</SHA1>
+      <FileSize>92160</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1869151+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3423-003 Rev1.ipt</FileName>
+      <SHA1>15E948DB6B98D54E8A87BB17F66AB06E35CF6D47</SHA1>
+      <FileSize>122880</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1889165+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3423-004 Rev1.ipt</FileName>
+      <SHA1>2823D766DA20F2F2B70957A7C3669FAF428B5C26</SHA1>
+      <FileSize>75264</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1929193+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3423-005 Rev1.ipt</FileName>
+      <SHA1>B2E550BE7C1869272622E4CCA8B6DFE7F1E2B94F</SHA1>
+      <FileSize>114688</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1949203+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3423-006 Rev1.ipt</FileName>
+      <SHA1>F460DD592D146A82F1C61DB555A1DC37C209D951</SHA1>
+      <FileSize>72192</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1979216+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3423-008 Rev1.ipt</FileName>
+      <SHA1>71A064DBF11519CACFC1D14E348EDEECAA74E21E</SHA1>
+      <FileSize>95232</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.1999243+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3423-009 Rev1.ipt</FileName>
+      <SHA1>E4EBAC6E9353B7C1DE543105A9243CC8E48790E7</SHA1>
+      <FileSize>122368</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2019244+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3423-014 Rev1.ipt</FileName>
+      <SHA1>A85BBD39FB2629797C1A21396BE0B1F54E4B653A</SHA1>
+      <FileSize>522752</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2049270+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3423-016 Rev1.ipt</FileName>
+      <SHA1>1C32E5677D89F9BA3DB2720ED5A91C4573B9D647</SHA1>
+      <FileSize>103424</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2079338+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3424-002 Rev1.ipt</FileName>
+      <SHA1>A89F03A683FFD8EFC7576AC083F941ACD826688D</SHA1>
+      <FileSize>72192</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2114346+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3424-003 Rev1.ipt</FileName>
+      <SHA1>444AFA844AB89A4ED2AC7514209EA1165A4CDB15</SHA1>
+      <FileSize>87040</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2139364+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3424-005 Rev1.ipt</FileName>
+      <SHA1>4CAF065BC73D9A28E28A93FE8CD2887DD79FAB98</SHA1>
+      <FileSize>86528</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2159387+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3433-001 Rev1_Default_As Machined_.ipt</FileName>
+      <SHA1>666BC96C42A5CD5768235A892473A21B2B5E0662</SHA1>
+      <FileSize>594432</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2184405+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3433-002 Rev1.ipt</FileName>
+      <SHA1>8DE4FCCF9F0637297EC0D85CCA1E4455D09C78EA</SHA1>
+      <FileSize>212480</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2214422+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3433-PTO Config STEP.htm</FileName>
+      <SHA1>3959D9D1DF036FEDE97470F4DA5A77F39B887F57</SHA1>
+      <FileSize>65930</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2234432+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3433-PTO Config STEP.iam</FileName>
+      <SHA1>262F70BB10BDA7219865C7F7E298F8DE4C9962F8</SHA1>
+      <FileSize>1896960</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2279553+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\217-3489.ipt</FileName>
+      <SHA1>8DF351BE30F6CF3BE1AA7D4CF592ECD0E63737AD</SHA1>
+      <FileSize>120832</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2309575+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-PTO Config STEP\91251A107_91251A107.ipt</FileName>
+      <SHA1>B23DA61AB2FA1CEFC87E0554E8B3440EB4E05A73</SHA1>
+      <FileSize>729088</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2339596+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-STEP\217-2705-001_30t.ipt</FileName>
+      <SHA1>AD75DB605757FB51B287BCD8EA2B8E8541776075</SHA1>
+      <FileSize>514560</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2449674+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-STEP\217-2731.ipt</FileName>
+      <SHA1>B4BE4BAA481A3F89C0D43033A54B91C5E9C76D4B</SHA1>
+      <FileSize>96256</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2469689+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-STEP\217-3261-001 Rev1.ipt</FileName>
+      <SHA1>7150A1B0FB3D1D49B103B2CA5BBD8CEE366A7FB7</SHA1>
+      <FileSize>78336</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2489698+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-STEP\217-3433-003 Rev1.ipt</FileName>
+      <SHA1>CBE090DD4A1C0CC3ED6F867F5F468B7D82137DBF</SHA1>
+      <FileSize>87040</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2509713+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3433-STEP\217-3433-STEP.htm</FileName>
+      <SHA1>1A8C93A9B7B92D376AAE8D0B040706654891718B</SHA1>
+      <FileSize>63632</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2529723+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3557-STEP\217-3557-STEP.htm</FileName>
+      <SHA1>8F59F2E392727969BE23D5CB598A5023536D4F8F</SHA1>
+      <FileSize>11242</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2549750+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3557-STEP\217-3557-STEP.ipt</FileName>
+      <SHA1>4C23B97FA6FAADA692914C5D37DA811C1CBE2681</SHA1>
+      <FileSize>113152</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2579792+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3875-STEP-20140818\217-3875-STEP-20140818.htm</FileName>
+      <SHA1>083B8A6C96A0D51733771060263AEFD38357DFAE</SHA1>
+      <FileSize>11346</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2599772+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-3875-STEP-20140818\217-3875-STEP-20140818.ipt</FileName>
+      <SHA1>ED1503074355D6693340A4CE9E6E207238C44181</SHA1>
+      <FileSize>141824</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2619795+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-4006-STEP-20140807\217-4006-STEP-20140807.htm</FileName>
+      <SHA1>01DD5E9F1FCE8D2C4B613CD83316FAB5B100EEA2</SHA1>
+      <FileSize>11358</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2639809+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-4009-STEP-20140807\217-4009 plastic hex hub.ipt</FileName>
+      <SHA1>963A68E6F4F16E83B12EBFDDA3733697C927A10B</SHA1>
+      <FileSize>1358336</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2659832+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-4009-STEP-20140807\217-4009-STEP-20140807.htm</FileName>
+      <SHA1>D0493B851F162F52B8F27AF68CF710766BF31048</SHA1>
+      <FileSize>12500</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2679842+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\217-4009-STEP-20140807\217-4009-STEP-20140807.ipt</FileName>
+      <SHA1>32A19DD4812FB59576102F5C1184A2368013A7E9</SHA1>
+      <FileSize>1358336</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2709863+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\OldVersions\217-2778-001 Rev2_NCQ8A075-050M.0002.iam</FileName>
+      <SHA1>B49FD21C9004A96A3ED610261BD72720B44A7AEB</SHA1>
+      <FileSize>61952</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4091025+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\OldVersions\217-3195-200 Rev1.0002.iam</FileName>
+      <SHA1>5230A1A7D5FE0FB1114B65C0DD0108DB452DE9F5</SHA1>
+      <FileSize>77824</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4116089+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\OldVersions\217-3420-001 Rev2_60t.0001.ipt</FileName>
+      <SHA1>71B5920363BC14B423C1AF356056979F7D703366</SHA1>
+      <FileSize>1336832</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4151114+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\OldVersions\217-3433 WCD gear box assembly.0004.iam</FileName>
+      <SHA1>4C02D96025D583937B80C4E695825FEB469B4FBC</SHA1>
+      <FileSize>1375744</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4181136+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\OldVersions\217-3433 WCD gear box assembly.0006.iam</FileName>
+      <SHA1>3FED34AC9AD20F6EAB478BAFCD803F1602C91BEF</SHA1>
+      <FileSize>1829376</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4206145+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-2000.ipt</FileName>
+      <SHA1>E0B67DA2FD808E2FF1C9F805D7BB0B7A37678A5A</SHA1>
+      <FileSize>152576</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2729873+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-2428-027 Rev1_97414A630.ipt</FileName>
+      <SHA1>E69A3E574F7319FB683EFA63F14EA1FA19389BB4</SHA1>
+      <FileSize>83456</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2749900+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-2614-002_98430A132.ipt</FileName>
+      <SHA1>53EBD55BD0D373D8823D008174C06FFAEDCB19E6</SHA1>
+      <FileSize>329216</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2789920+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-2705-001_30t.ipt</FileName>
+      <SHA1>C5DC263A7BEA8C951A08C82280D108EE44005AC4</SHA1>
+      <FileSize>515072</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2819950+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-2731.ipt</FileName>
+      <SHA1>C9F5ABA5697106C581D3C0481722E084CBA1DE20</SHA1>
+      <FileSize>96768</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2839956+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-2733.ipt</FileName>
+      <SHA1>817500D0155EEF6D41B66700A387993013A67E4E</SHA1>
+      <FileSize>96256</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2859966+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-2734.ipt</FileName>
+      <SHA1>A20BC0237ED0928426E687D3BA4E520664344632</SHA1>
+      <FileSize>99328</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2879976+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-2743.ipt</FileName>
+      <SHA1>9E13DDFA76BB9C8EE1337C460F23AD0470EC0DF8</SHA1>
+      <FileSize>376832</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2899994+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-2758-001 Rev1.ipt</FileName>
+      <SHA1>5231E6D4CD774AEC3FBB47DEC59F52A81F1B261E</SHA1>
+      <FileSize>78848</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2940027+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-2761-001 rev1.ipt</FileName>
+      <SHA1>7C2030CE953B0F8EE23DF20084C24BDC2DD42882</SHA1>
+      <FileSize>71168</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2960033+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-2778-001 Rev2_NCQ8A075-050M.iam</FileName>
+      <SHA1>C10BDE393D728BC2270A8567BEBC2C310F06C8DE</SHA1>
+      <FileSize>61952</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.2980055+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-2778-NCQ8A075-050M_1032_Nut_90545A111.ipt</FileName>
+      <SHA1>E3303247CF27F826215BDC4E24B99BBC50B75554</SHA1>
+      <FileSize>360960</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3000061+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-2778-NCQ8A075-050M_NCQ8 Rod_075M.ipt</FileName>
+      <SHA1>1F786DE9592BF39EC75BDA8F66E8E732341CB7C4</SHA1>
+      <FileSize>91648</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3020084+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-2778-NCQ8A075-050M_NCQ8 Tube_075A.ipt</FileName>
+      <SHA1>383350EF9CCD584299CEA556701B6EF835793E9B</SHA1>
+      <FileSize>217088</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3040094+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-2778-NCQ8A075-050M_Snap Ring_075.ipt</FileName>
+      <SHA1>5A78985195FA772056E0D7988ADF58BAEF522587</SHA1>
+      <FileSize>93696</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3080161+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3100-001_14t.ipt</FileName>
+      <SHA1>2840D2301357DF4100E0BB66EBD2B1938431A400</SHA1>
+      <FileSize>436736</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3115297+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3195-010 Rev1.ipt</FileName>
+      <SHA1>C2FBB1D19CFF93AA2B558B38210F792BC3483C48</SHA1>
+      <FileSize>238592</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3130316+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3195-200 Rev1.iam</FileName>
+      <SHA1>7EF6D0FADA8FA6FE84DD6F952D4BC01DBDFF69BC</SHA1>
+      <FileSize>77824</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3150326+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3210-001 Rev1_30t.ipt</FileName>
+      <SHA1>88810EBAAF349363570E8E0FB45D724C842C2F0F</SHA1>
+      <FileSize>515072</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3175340+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3215-001 Rev1_42t.ipt</FileName>
+      <SHA1>0EF7FC828FBB29DC81C81FCA3715E87A0DD8C968</SHA1>
+      <FileSize>705024</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3200357+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3256-001 Rev1.ipt</FileName>
+      <SHA1>95F1849E2393589E66BD25B0ACD74B3489FA7407</SHA1>
+      <FileSize>78848</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3215368+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3257-001 Rev1.ipt</FileName>
+      <SHA1>8DD15167A564D65C22BD127D875B831544F4E10C</SHA1>
+      <FileSize>78336</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3240416+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3259-001 Rev1.ipt</FileName>
+      <SHA1>79CF4E2397AE468466B1F57699CEF9F559350276</SHA1>
+      <FileSize>78848</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3260430+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3261-001 Rev1.ipt</FileName>
+      <SHA1>3256EF6F2BA7E43AD248D2E06C457AB3C7F7E0E8</SHA1>
+      <FileSize>78336</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3300471+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3263-001 Rev1.ipt</FileName>
+      <SHA1>3272890228213C861AFF54A3D6AD26B33B15E42D</SHA1>
+      <FileSize>77824</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3320481+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3414-001 Rev1_14t Steel Pinion.ipt</FileName>
+      <SHA1>204E9CAEBF499598CBBBC1B376BC308273A678A6</SHA1>
+      <FileSize>278528</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3340487+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3418-001 Rev2_44t.ipt</FileName>
+      <SHA1>0C65D1E66AC066C523DEA85C11FDC2930C12A6D4</SHA1>
+      <FileSize>699904</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3360501+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3420-001 Rev2_60t.ipt</FileName>
+      <SHA1>FE82D4ED0B6AA2D8DF40E4BD5953BEE2A31EF14E</SHA1>
+      <FileSize>1347584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3410541+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3421-007 Rev1.ipt</FileName>
+      <SHA1>C46477FA793A40DD69D8A82094AD0858125023CD</SHA1>
+      <FileSize>91648</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3440567+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3421-009 Rev1.ipt</FileName>
+      <SHA1>E556A085EF1B7965709C500E354704979A27A3B7</SHA1>
+      <FileSize>101376</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3460585+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3421-010 Rev1.ipt</FileName>
+      <SHA1>E18EE9399ACA0074E20CC0A7A714EA3C08A5CD73</SHA1>
+      <FileSize>299008</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3480591+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3421-011 Rev2_97633A200.ipt</FileName>
+      <SHA1>244343DED17ACA9508230C03292875032DEBDB9F</SHA1>
+      <FileSize>97792</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3510629+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3422-004 Rev2.ipt</FileName>
+      <SHA1>2E350B277159145E598C25B5E77735074884ADE3</SHA1>
+      <FileSize>133632</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3530635+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3422-007 Rev1.ipt</FileName>
+      <SHA1>DFD6678B98129C10E60FF505024E5D451F037385</SHA1>
+      <FileSize>92160</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3550636+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3423-003 Rev1.ipt</FileName>
+      <SHA1>15E948DB6B98D54E8A87BB17F66AB06E35CF6D47</SHA1>
+      <FileSize>122880</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3590669+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3423-004 Rev1.ipt</FileName>
+      <SHA1>2823D766DA20F2F2B70957A7C3669FAF428B5C26</SHA1>
+      <FileSize>75264</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3630697+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3423-005 Rev1.ipt</FileName>
+      <SHA1>B2E550BE7C1869272622E4CCA8B6DFE7F1E2B94F</SHA1>
+      <FileSize>114688</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3650720+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3423-006 Rev1.ipt</FileName>
+      <SHA1>F460DD592D146A82F1C61DB555A1DC37C209D951</SHA1>
+      <FileSize>72192</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3680737+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3423-008 Rev1.ipt</FileName>
+      <SHA1>71A064DBF11519CACFC1D14E348EDEECAA74E21E</SHA1>
+      <FileSize>95232</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3700756+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3423-009 Rev1.ipt</FileName>
+      <SHA1>E4EBAC6E9353B7C1DE543105A9243CC8E48790E7</SHA1>
+      <FileSize>122368</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3730773+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3423-014 Rev1.ipt</FileName>
+      <SHA1>A85BBD39FB2629797C1A21396BE0B1F54E4B653A</SHA1>
+      <FileSize>522752</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3780813+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3423-016 Rev1.ipt</FileName>
+      <SHA1>1C32E5677D89F9BA3DB2720ED5A91C4573B9D647</SHA1>
+      <FileSize>103424</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3800831+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3424-002 Rev1.ipt</FileName>
+      <SHA1>A89F03A683FFD8EFC7576AC083F941ACD826688D</SHA1>
+      <FileSize>72192</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3830844+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3424-003 Rev1.ipt</FileName>
+      <SHA1>444AFA844AB89A4ED2AC7514209EA1165A4CDB15</SHA1>
+      <FileSize>87040</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3850862+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3424-005 Rev1.ipt</FileName>
+      <SHA1>4CAF065BC73D9A28E28A93FE8CD2887DD79FAB98</SHA1>
+      <FileSize>86528</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3870881+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3433 WCD gear box assembly.iam</FileName>
+      <SHA1>4622C6D1387D3A3338279119051CE38D73248B01</SHA1>
+      <FileSize>1148416</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3900894+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3433-001 Rev1_Default_As Machined_.ipt</FileName>
+      <SHA1>666BC96C42A5CD5768235A892473A21B2B5E0662</SHA1>
+      <FileSize>594432</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3950934+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3433-002 Rev1.ipt</FileName>
+      <SHA1>8DE4FCCF9F0637297EC0D85CCA1E4455D09C78EA</SHA1>
+      <FileSize>212480</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.3970939+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3433-PTO Config STEP.htm</FileName>
+      <SHA1>3959D9D1DF036FEDE97470F4DA5A77F39B887F57</SHA1>
+      <FileSize>65930</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4000978+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\217-3489.ipt</FileName>
+      <SHA1>8DF351BE30F6CF3BE1AA7D4CF592ECD0E63737AD</SHA1>
+      <FileSize>120832</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4020988+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\Imported Components\WCD gear box\91251A107_91251A107.ipt</FileName>
+      <SHA1>B23DA61AB2FA1CEFC87E0554E8B3440EB4E05A73</SHA1>
+      <FileSize>729088</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4040989+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\OldVersions\217-2588 wheel hub.0001.iam</FileName>
+      <SHA1>6E96E2204117CB395C229A01DB2097B8D30CEB1D</SHA1>
+      <FileSize>404480</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4231175+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\OldVersions\217-2778-001 Rev2_NCQ8A075-050M-01.0001.iam</FileName>
+      <SHA1>C52EDBFD0961DAE0554B4FCB22112A988518880A</SHA1>
+      <FileSize>61952</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4259452+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\OldVersions\217-2778-001 Rev2_NCQ8A075-050M-01.0001_1.iam</FileName>
+      <SHA1>AA95DC5A7C3BB8FD583A230A3B4B86226ECE4D28</SHA1>
+      <FileSize>61440</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4279470+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\OldVersions\217-2859 tire tread.0002.iam</FileName>
+      <SHA1>76AB1D3D65E61B9CC7CBF63DAB5598D1C7120200</SHA1>
+      <FileSize>95232</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4309496+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\OldVersions\217-3195-200 Rev1-01.0001.iam</FileName>
+      <SHA1>4DBF9DF3DA1A30578DDB31B77F89CBAFE3EB7E6F</SHA1>
+      <FileSize>77824</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4319499+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\OldVersions\217-3195-200 Rev1-01.0001_1.iam</FileName>
+      <SHA1>885CCF0199B609D9F23F228DBD27C72807841A49</SHA1>
+      <FileSize>76800</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4339509+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\OldVersions\217-3432-STEP Versa block.0001.ipt</FileName>
+      <SHA1>02E5221833CD5E931C7B1534282060AC2B4EA519</SHA1>
+      <FileSize>276992</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4369530+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\OldVersions\217-3433 WCD gear box assembly-01.0002.iam</FileName>
+      <SHA1>65B3F96BEDDB6695389412035BA2F1A3220D41A1</SHA1>
+      <FileSize>348672</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4399556+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\OldVersions\base board.0003.ipt</FileName>
+      <SHA1>15D6D14619F6D2584A249CCC4D9611F546FFA548</SHA1>
+      <FileSize>128000</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4539660+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\OldVersions\front rail.0001.ipt</FileName>
+      <SHA1>6D4CE317E2CB92469977F604CC0FED52B413316E</SHA1>
+      <FileSize>89088</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4569689+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\OldVersions\front rail.0002.ipt</FileName>
+      <SHA1>2DD908722C07EFE654E2B9591FA6F26AC72EE216</SHA1>
+      <FileSize>132608</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4609705+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\OldVersions\side rail.0002.ipt</FileName>
+      <SHA1>8F8BB3DC8FCFA683744F29C8015F8A047FF83B12</SHA1>
+      <FileSize>169984</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4629719+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\OldVersions\side rail.0003.ipt</FileName>
+      <SHA1>27D34219872F9908427E2F32EAACCFE52954318D</SHA1>
+      <FileSize>184832</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4649738+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\OldVersions\side rail.0006.ipt</FileName>
+      <SHA1>8C578F3C4B04B729D934E9244AE9024D1F73FFA2</SHA1>
+      <FileSize>186368</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4679755+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\OldVersions\WCD chassis.0009.iam</FileName>
+      <SHA1>ADB11C76928C4696257F00B7BCA78780BBBAD40E</SHA1>
+      <FileSize>1859072</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4449591+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\OldVersions\WCD chassis.0014.iam</FileName>
+      <SHA1>11AE2C394A3E6BC6828EE26FB61884B75663A82B</SHA1>
+      <FileSize>3025408</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4499627+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\OldVersions\West Coast Drive.ipj.bak</FileName>
+      <SHA1>3DF92BD6C02FCC32AE3C525530A5E900C815C245</SHA1>
+      <FileSize>8280</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4519641+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\OldVersions\wheel.0002.iam</FileName>
+      <SHA1>33194AD8C767F2504A3FEABF8007492F6A8A002C</SHA1>
+      <FileSize>686080</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4709781+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\217-2588 wheel hub.iam</FileName>
+      <SHA1>5CD54709BD6E402777CA8EC1D9975BFCF24EEF2D</SHA1>
+      <FileSize>422400</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:42.9607184+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\217-2859 tire tread.iam</FileName>
+      <SHA1>DF210D604D955516825D0B90B202DC190023424E</SHA1>
+      <FileSize>95232</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:42.9647195+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\217-3227 24T pulley.ipt</FileName>
+      <SHA1>1C2F177EE49B401DDC8550E58D3E9C8A92BFCD8A</SHA1>
+      <FileSize>871424</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:42.9677221+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\217-3431 Snail shell.ipt</FileName>
+      <SHA1>37A9B336DA4F2207BB69D93608D898C4CD0EF893</SHA1>
+      <FileSize>192000</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:42.9697235+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\217-3432-STEP Versa block.ipt</FileName>
+      <SHA1>076EBE589FE8044CA844A905F26220B50852248D</SHA1>
+      <FileSize>278016</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:42.9727261+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\217-3557 T gusset.ipt</FileName>
+      <SHA1>AAFD6FA745FA58AE195410BD5AF87DF2E075E423</SHA1>
+      <FileSize>131072</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:42.9787304+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\217-3875 thunder hex bearing.ipt</FileName>
+      <SHA1>6C2DA69DB2AABD95DEBABA1A10E0107F2B0EFDC9</SHA1>
+      <FileSize>160256</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:42.9817321+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\217-4009- plastic hex hub.ipt</FileName>
+      <SHA1>43F2A1E0DF7995D9349C1E1F6CEE80A30EE9DBA2</SHA1>
+      <FileSize>1358336</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:42.9847342+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\base board.idw</FileName>
+      <SHA1>9C77DC93174EA4D1479FE46E227FA531951519BD</SHA1>
+      <FileSize>2562048</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4839886+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\base board.ipt</FileName>
+      <SHA1>E0A5F5AAA5D3C6BC38D70A29113ED35C390D9536</SHA1>
+      <FileSize>128000</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4859874+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\front rail.ipt</FileName>
+      <SHA1>BAE514EB0CA6B47D55A3F60E8517D3FB841A498E</SHA1>
+      <FileSize>137728</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4879889+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\side rail.ipt</FileName>
+      <SHA1>4BCDD2B11C67B77F510BE7ECC0BEF151B0D57059</SHA1>
+      <FileSize>187392</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4899907+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\WCD chassis.iam</FileName>
+      <SHA1>BEB2A0EB88422A5C38C30C9B556EBEC210014B84</SHA1>
+      <FileSize>3114496</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4779826+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\West Coast Drive.ipj</FileName>
+      <SHA1>3DF92BD6C02FCC32AE3C525530A5E900C815C245</SHA1>
+      <FileSize>8280</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4799845+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>West Coast Drive\wheel.iam</FileName>
+      <SHA1>6605B9AC34E93B3F7514171BCC1B4E787C409D09</SHA1>
+      <FileSize>867840</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-01-08T01:14:43.4939948+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>
